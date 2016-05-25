@@ -1,0 +1,6 @@
+{
+    "TopicConfiguration": {
+            "Event": "s3:ObjectCreated:*",
+			"Topic": "arn:aws:sqs:us-west-2:927914932:DataQueue"            
+    }
+}
